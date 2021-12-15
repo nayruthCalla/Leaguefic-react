@@ -1,6 +1,7 @@
-![](src/assets/logo.png){}
+![](src/assets/logo.png){width : 100px}
 # Rick and Morty
 Ver [Demo]( https://nayruthcalla.github.io/LIM009-Cipher/src/index.html)
+
 La API utilizada para este reto es [API RICK AND MORTY](https://rickandmortyapi.com/).
 ***
 ## Tecnologías utilizadas :
