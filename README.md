@@ -1,6 +1,6 @@
 ![](src/assets/logo.png)
 # Rick and Morty
-Ver [Demo]( https://nayruthcalla.github.io/LIM009-Cipher/src/index.html)
+Ver [Demo](https://upbeat-murdock-084166.netlify.app/)
 
 La API utilizada para este reto es [API RICK AND MORTY](https://rickandmortyapi.com/).
 ***
