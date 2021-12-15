@@ -2,8 +2,10 @@
 # Rick and Morty
 Ver [Demo](https://upbeat-murdock-084166.netlify.app/)
 
-La API utilizada para este reto es [API RICK AND MORTY](https://rickandmortyapi.com/).
+✅ La API utilizada para este reto es [API RICK AND MORTY](https://rickandmortyapi.com/).
+
 ✅ Se realizó la paginación
+
 ✅ Diseño First mobile
 ***
 ## Tecnologías utilizadas :
