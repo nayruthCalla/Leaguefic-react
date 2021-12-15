@@ -15,18 +15,26 @@ const Container = styled.footer`
     width: 2rem;
     margin-left: 1rem;    
   }
+  @media screen and (min-width: 762px) {
+    flex-direction: row;
+    padding: 1rem;
+    align-items: center;
+    justify-content: center;
+    }
 `;
-const Text = styled.p`
+const Text = styled.a`
   font-size: 1.5rem;
   margin-left: 0.5rem;
   padding:1rem;
+  text-decoration: none;
+  color: #726e6e;
 `;
 
 const Footer = () => {
   return (
     <Container>
-        <Text><FaGithub/> nayruthCalla</Text>
-        <Text><FaLinkedin/> Nayruth Calla</Text>
+        <Text  href="https://www.linkedin.com/in/nayruth-calla/" target= "_blanck" ><FaGithub/> nayruthCalla</Text>
+        <Text href="https://github.com/nayruthCalla" target= "_blanck"><FaLinkedin/> Nayruth Calla</Text>
         <Text> @ 2021</Text>         
     </Container>
   )

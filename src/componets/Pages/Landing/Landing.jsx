@@ -4,9 +4,9 @@ import logo from '../../../assets/logo.png'
 
 const Landing = () => {
   return (
-    <div>
+    <>
       <Main urlLogo = {logo}/>
-    </div>
+    </>
   )
 }
 

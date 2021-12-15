@@ -3,6 +3,9 @@ body {
   font-family: 'Ubuntu', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  display: flex;
+	height: 100vh;
+	flex-direction: column;
 }
 
 code {
@@ -22,5 +25,7 @@ html {
 }
 
 #root{
-  min-height: 100vh;
+  display: flex;
+	height: 100vh;
+	flex-direction: column;
 }

@@ -26,6 +26,12 @@ const TextCont = styled.div`
   margin: 1rem 0 0 5rem;
   display:flex;
   align-items: center;
+  @media screen and (min-width: 762px) {
+      margin-left: 1rem;
+    }
+    @media screen and (min-width: 1024px) {
+      max-width: 25rem;
+    }
 `;
 const Text = styled.h2`
   color: #e6dddd;
