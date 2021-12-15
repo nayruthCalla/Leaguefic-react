@@ -1,4 +1,4 @@
-![](src/assets/logo.png){width : 100px}
+![](src/assets/logo.png)
 # Rick and Morty
 Ver [Demo]( https://nayruthcalla.github.io/LIM009-Cipher/src/index.html)
 
